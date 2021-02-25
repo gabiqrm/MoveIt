@@ -9,8 +9,8 @@ Em Construção! ⛏
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt/)
 
 </div>
----
 
+---
 ## 📋 Índice:
 
 - [Sobre](#-sobre)
@@ -21,7 +21,14 @@ Em Construção! ⛏
 ---
 ## 📖 Sobre:
 
-Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
+Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.
+A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
+
+### Layout:
+
+Para ver o layout que a **Rocketseat** criou, clique abaixo:
+
+<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 
 --- 
 ## 🎓 Quem ministrou?
@@ -33,8 +40,6 @@ As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)*
 
 Nesse projeto foram utilizadas as seguintes tecnologias:
 
-* [HTML]
-* [CSS]
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
@@ -63,7 +68,5 @@ Feito isso, abra o seu navegador e acesse `http://localhost:3000/`.
 ## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
 ##
 Desenvolvido por Gabriela Queiroz ! 💜
-
