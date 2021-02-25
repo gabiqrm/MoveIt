@@ -34,8 +34,6 @@ As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)*
 
 Nesse projeto foram utilizadas as seguintes tecnologias:
 
-* [HTML]
-* [CSS]
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
@@ -64,7 +62,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:3000/`.
 ## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
+---
 ##
 Desenvolvido por Gabriela Queiroz ! 💜
 
