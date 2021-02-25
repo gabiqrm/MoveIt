@@ -9,8 +9,8 @@ Em Construção! ⛏
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/MoveIt)](https://github.com/gabiqrm/MoveIt/)
 
 </div>
----
 
+---
 ## 📋 Índice:
 
 - [Sobre](#-sobre)
