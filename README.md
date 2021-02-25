@@ -24,6 +24,12 @@ Em Construção! ⛏
 Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.
 A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
 
+<h2 style="font-weight:300">Layout:</h2>
+
+Para ver o layout que a **Rocketseat** montou, clique abaixo:
+
+<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
 --- 
 ## 🎓 Quem ministrou?
 
