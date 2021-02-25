@@ -1,6 +1,6 @@
 Em Construção! ⛏
 
-<p align="center" font-size="60px" color="Green">  
+<p align="center">  
    Move It   
 </p>
 
