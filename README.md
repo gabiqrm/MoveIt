@@ -21,7 +21,8 @@ Em Construção! ⛏
 ---
 ## 📖 Sobre:
 
-Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
+Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.
+A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
 
 --- 
 ## 🎓 Quem ministrou?
