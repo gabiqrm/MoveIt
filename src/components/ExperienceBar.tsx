@@ -23,3 +23,4 @@ export function ExperienceBar() {
     </header>
   )
 }
+

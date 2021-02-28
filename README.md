@@ -1,7 +1,7 @@
 Em Construção! ⛏
 
 <p align="center">  
-   Move It   
+   <img src="./public/logoreadme.svg" alt="Move It"/> 
 </p>
 
 <div align="center">
@@ -24,13 +24,12 @@ Em Construção! ⛏
 Move.it foi um projeto iniciado pela [@Rocketseat](https://github.com/Rocketseat) na Next Level Week 4, uma semana de estudos intensivos em busca do próximo nível.
 A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em tempos, utilizando método Pomodoro.
 
+<img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+
 ### Layout:
 
-<<<<<<< HEAD
-Para ver o layout que a **Rocketseat** criou, clique abaixo:
-=======
 Para ver o layout que a **Rocketseat** montou, clique abaixo:
->>>>>>> dcc5d8bdd14da826987e3adc0b30f21cdefddf55
+
 
 <a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 
