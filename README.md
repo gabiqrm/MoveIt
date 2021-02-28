@@ -36,7 +36,7 @@ Para ver o layout que a **Rocketseat** montou, clique abaixo:
 --- 
 ## 🎓 Quem ministrou?
 
-As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week 4 da Trilha de ReactJs**.
+As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week 4 da Trilha de ReactJs** durante os dias 22 até 28 de Fevereiro de 2021.
 
 ---
 ## 🚀 Tecnologias Utilizadas:
