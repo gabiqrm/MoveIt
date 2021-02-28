@@ -1,7 +1,7 @@
 Em Construção! ⛏
 
-<p align="center">
-   # Move.it
+<p align="center">  
+   Move It   
 </p>
 
 <div align="center">
@@ -26,7 +26,11 @@ A ideia do app é auxiliar pessoas a se exercitarem e movimentarem de tempos em 
 
 ### Layout:
 
+<<<<<<< HEAD
 Para ver o layout que a **Rocketseat** criou, clique abaixo:
+=======
+Para ver o layout que a **Rocketseat** montou, clique abaixo:
+>>>>>>> dcc5d8bdd14da826987e3adc0b30f21cdefddf55
 
 <a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 
